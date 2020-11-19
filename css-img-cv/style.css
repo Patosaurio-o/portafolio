@@ -1,3 +1,14 @@
 .foto {
   height: 250px;
 }
+
+.logo {
+  height: 45px;
+}
+
+.fondo {
+  background-image:url(/portafolio-git/css-img-cv/17b6a4fa24164321a164907dfc22e5c9.jpg);
+  background-position: center;
+  background-size: cover;  
+  height: 1000px;
+}
